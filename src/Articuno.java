@@ -1,5 +1,5 @@
-public class Articuno {
+public class Articuno extends Pokemon {
 
-    String 
+    
     
 }

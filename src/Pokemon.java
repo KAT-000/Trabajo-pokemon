@@ -1,4 +1,4 @@
-package Pokemon;
+
 
 public class Pokemon {
     String nombre;
@@ -6,6 +6,7 @@ public class Pokemon {
     int HP;
     double peso;
     boolean vuela;
+
 
 
     public Pokemon(String nombre, String tipo , int vidaMaxima , double peso , boolean vuela ){
